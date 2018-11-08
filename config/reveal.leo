@@ -24,7 +24,31 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181109001703.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001703.2"><vh>week1</vh></v>
+</v>
+<v t="leo.20181109001717.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001717.2"><vh>week2</vh></v>
+</v>
+<v t="leo.20181109001713.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001713.2"><vh>week3</vh></v>
+</v>
+<v t="leo.20181109001710.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001710.2"><vh>week4</vh></v>
+</v>
+<v t="leo.20181109002107.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002107.2"><vh>week5</vh></v>
+</v>
+<v t="leo.20181109002109.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002109.2"><vh>week6</vh></v>
+</v>
+<v t="leo.20181109002111.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002111.2"><vh>week7</vh></v>
+</v>
+<v t="leo.20181109002116.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002116.2"><vh>week8</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -129,7 +153,7 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623142 投影片](http://lab.kmol.info/)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -325,6 +349,140 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181109001703.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109001703.2">## week1
+
+上課準備隨身碟、耳機、麥克風與筆記，並下載P37到自己的隨身碟中，與建立Onshape帳號，領取作業，學習如何編輯倉儲、部落格、投影片，並每週更新。
+
+</t>
+<t tx="leo.20181109001710.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109001710.2">## week4
+
+ Onshape 是一個很好的繪圖工具，而它的優點就是它是網頁，而不像 Solidworks 需要授權才能使用，雖然它是英文顯示操作也大同小異，但有些功能還是需要查字典，這是一個學英文與繪圖的好工具。
+
+
+</t>
+<t tx="leo.20181109001713.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109001713.2">## week3
+
+這次上課學到了 git 的基本操作，git branch--查看目前在哪個分支上、git log --oneline --graph --all --顯示出一行然後用圖形表示的全部分支、git checkout xx--換成在xx分支上、git merge--版次合併，讓我對 git 的了解又增加一大步。
+
+
+</t>
+<t tx="leo.20181109001717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109001717.2">## week2
+
+這次上課學到在編輯 Leo 的時候，有些項目必須更改，假如沒有改的話整個項目就必須刪除之後再重做，所以要很注意不然就有可能要重做。
+
+
+</t>
+<t tx="leo.20181109002107.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002107.2">## week5
+
+畫未來將要組裝的零件圖，準備利用Onshape將零件組裝成一座小機構。
+
+
+
+
+</t>
+<t tx="leo.20181109002109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002109.2">## wee6
+
+說明管理內容流程升級最新的 CMSimfly倉儲中的 flaskapp.py
+
+
+</t>
+<t tx="leo.20181109002111.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002111.2">## week7
+
+#### 更改網路設定:
+
+#### 控制台---&gt;網路和網際網路----&gt;乙太網路2
+
+#### --&gt;變更介面卡選項---&gt;內容---&gt;網際網路通訊協定第4版(IPv4)
+
+#### 在使用DNS伺服器位置輸入:
+
+#### 140.130.17.3           140.130.1.2
+
+#### 網際網路通訊協定第6版(IPv6):
+
+####  2001:288:6004:17::3 系上        2001:288:6004:1::2 學校    2001:b000:168::1 hinet
+
+
+</t>
+<t tx="leo.20181109002116.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109002116.2">## wee8
+
+所謂雲端
+雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少
+
+
 </t>
 </tnodes>
 </leo_file>
