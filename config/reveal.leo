@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,52 +10,82 @@
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180827201621.4" a="E"><vh>html</vh>
+<v t="leo.20180827201621.1"><vh>編輯 reveal</vh>
+<v t="leo.20180827201621.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.4"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.6"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh>
+<v t="leo.20180827201621.8"><vh>slides div</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181109001703.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190415022754.1"><vh>week1</vh>
+<v t="leo.20190415022754.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022756.1"><vh>week2</vh>
+<v t="leo.20190415022756.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022810.1"><vh>week3</vh>
+<v t="leo.20190415022810.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022812.1"><vh>week4</vh>
+<v t="leo.20190415022812.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022817.1"><vh>week5</vh>
+<v t="leo.20190415022817.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022819.1"><vh>week6</vh>
+<v t="leo.20190415022819.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022827.1"><vh>week7</vh>
+<v t="leo.20190415022827.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022828.1"><vh>week8</vh>
+<v t="leo.20190415022828.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022831.1"><vh>空</vh>
+<v t="leo.20190415022831.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190415022833.1"><vh>空</vh>
+<v t="leo.20190415022833.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181109001703.1"><vh>week1</vh>
 <v t="leo.20181109001703.2"><vh>week1</vh></v>
 </v>
-<v t="leo.20181109001717.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001717.1"><vh>week2</vh>
 <v t="leo.20181109001717.2"><vh>week2</vh></v>
 </v>
-<v t="leo.20181109001713.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001713.1"><vh>week3</vh>
 <v t="leo.20181109001713.2"><vh>week3</vh></v>
 </v>
-<v t="leo.20181109001710.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109001710.1"><vh>week4</vh>
 <v t="leo.20181109001710.2"><vh>week4</vh></v>
 </v>
-<v t="leo.20181109002107.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002107.1"><vh>week5</vh>
 <v t="leo.20181109002107.2"><vh>week5</vh></v>
 </v>
-<v t="leo.20181109002109.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002109.1"><vh>week6</vh>
 <v t="leo.20181109002109.2"><vh>week6</vh></v>
 </v>
-<v t="leo.20181109002111.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002111.1"><vh>week7</vh>
 <v t="leo.20181109002111.2"><vh>week7</vh></v>
 </v>
-<v t="leo.20181109002116.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181109002116.1"><vh>week8</vh>
 <v t="leo.20181109002116.2"><vh>week8</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
 </v>
@@ -148,7 +175,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019協同產品設計實習
 
 ### 虎科大機械設計工程系
 
@@ -482,6 +509,183 @@ make.start()
 所謂雲端
 雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少
 
+
+</t>
+<t tx="leo.20190415022754.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022754.2">## week1
+
+上課準備隨身碟、耳機與筆記，並學習自己建立一個可攜式系統到自己的隨身碟裡，並把過程排成影片。
+網址:https://www.youtube.com/watch?v=9MoXs8KSGCc</t>
+<t tx="leo.20190415022756.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022756.2">## week2
+
+這學期採用分組互評方法來驗收每個人每個禮拜在自己的組別是否有做事
+</t>
+<t tx="leo.20190415022810.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022810.2">## 2019協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623142 投影片](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190415022812.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022812.2">## 2019協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623142 投影片](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190415022817.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022817.2">## 2019協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623142 投影片](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190415022819.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022819.2">## 2019協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623142 投影片](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190415022827.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022827.2">## 2019協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623142 投影片](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190415022828.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022828.2">## 2019協同產品設計實習
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [40623142 投影片](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[2018 Fall 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20190415022831.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022831.2">
+
+
+</t>
+<t tx="leo.20190415022833.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190415022833.2">
 
 </t>
 </tnodes>
