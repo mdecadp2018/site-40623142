@@ -33,48 +33,6 @@
 <v t="leo.20190415022812.1"><vh>week4</vh>
 <v t="leo.20190415022812.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190415022817.1"><vh>week5</vh>
-<v t="leo.20190415022817.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190415022819.1"><vh>week6</vh>
-<v t="leo.20190415022819.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190415022827.1"><vh>week7</vh>
-<v t="leo.20190415022827.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190415022828.1"><vh>week8</vh>
-<v t="leo.20190415022828.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190415022831.1"><vh>空</vh>
-<v t="leo.20190415022831.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20190415022833.1"><vh>空</vh>
-<v t="leo.20190415022833.2"><vh>封面投影片內容</vh></v>
-</v>
-<v t="leo.20181109001703.1"><vh>week1</vh>
-<v t="leo.20181109001703.2"><vh>week1</vh></v>
-</v>
-<v t="leo.20181109001717.1"><vh>week2</vh>
-<v t="leo.20181109001717.2"><vh>week2</vh></v>
-</v>
-<v t="leo.20181109001713.1"><vh>week3</vh>
-<v t="leo.20181109001713.2"><vh>week3</vh></v>
-</v>
-<v t="leo.20181109001710.1"><vh>week4</vh>
-<v t="leo.20181109001710.2"><vh>week4</vh></v>
-</v>
-<v t="leo.20181109002107.1"><vh>week5</vh>
-<v t="leo.20181109002107.2"><vh>week5</vh></v>
-</v>
-<v t="leo.20181109002109.1"><vh>week6</vh>
-<v t="leo.20181109002109.2"><vh>week6</vh></v>
-</v>
-<v t="leo.20181109002111.1"><vh>week7</vh>
-<v t="leo.20181109002111.2"><vh>week7</vh></v>
-</v>
-<v t="leo.20181109002116.1"><vh>week8</vh>
-<v t="leo.20181109002116.2"><vh>week8</vh></v>
-</v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -178,12 +136,13 @@ vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.10">## 2019協同產品設計實習
 
 ### 虎科大機械設計工程系
+40623142 郭益綸
 
-&lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
 &lt;/small&gt;
+[40623142 倉儲](https://github.com/mdecadp2018/site-40623142)
 
-[2018 Fall 分組網誌](./../blog/index.html)
+&lt;/small&gt;
+[ag2 倉儲](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g2)
 
 
 </t>
@@ -377,140 +336,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109001703.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109001703.2">## week1
-
-上課準備隨身碟、耳機、麥克風與筆記，並下載P37到自己的隨身碟中，與建立Onshape帳號，領取作業，學習如何編輯倉儲、部落格、投影片，並每週更新。
-
-</t>
-<t tx="leo.20181109001710.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109001710.2">## week4
-
- Onshape 是一個很好的繪圖工具，而它的優點就是它是網頁，而不像 Solidworks 需要授權才能使用，雖然它是英文顯示操作也大同小異，但有些功能還是需要查字典，這是一個學英文與繪圖的好工具。
-
-
-</t>
-<t tx="leo.20181109001713.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109001713.2">## week3
-
-這次上課學到了 git 的基本操作，git branch--查看目前在哪個分支上、git log --oneline --graph --all --顯示出一行然後用圖形表示的全部分支、git checkout xx--換成在xx分支上、git merge--版次合併，讓我對 git 的了解又增加一大步。
-
-
-</t>
-<t tx="leo.20181109001717.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109001717.2">## week2
-
-這次上課學到在編輯 Leo 的時候，有些項目必須更改，假如沒有改的話整個項目就必須刪除之後再重做，所以要很注意不然就有可能要重做。
-
-
-</t>
-<t tx="leo.20181109002107.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109002107.2">## week5
-
-畫未來將要組裝的零件圖，準備利用Onshape將零件組裝成一座小機構。
-
-
-
-
-</t>
-<t tx="leo.20181109002109.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109002109.2">## wee6
-
-說明管理內容流程升級最新的 CMSimfly倉儲中的 flaskapp.py
-
-
-</t>
-<t tx="leo.20181109002111.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109002111.2">## week7
-
-#### 更改網路設定:
-
-#### 控制台---&gt;網路和網際網路----&gt;乙太網路2
-
-#### --&gt;變更介面卡選項---&gt;內容---&gt;網際網路通訊協定第4版(IPv4)
-
-#### 在使用DNS伺服器位置輸入:
-
-#### 140.130.17.3           140.130.1.2
-
-#### 網際網路通訊協定第6版(IPv6):
-
-####  2001:288:6004:17::3 系上        2001:288:6004:1::2 學校    2001:b000:168::1 hinet
-
-
-</t>
-<t tx="leo.20181109002116.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109002116.2">## wee8
-
-所謂雲端
-雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少
-
-
-</t>
 <t tx="leo.20190415022754.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -520,10 +345,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190415022754.2">## week1
+<t tx="leo.20190415022754.2">## week 11
 
-上課準備隨身碟、耳機與筆記，並學習自己建立一個可攜式系統到自己的隨身碟裡，並把過程排成影片。
-網址:https://www.youtube.com/watch?v=9MoXs8KSGCc</t>
+
+
+* 分配工作
+
+* 送球機溝的衝突</t>
 <t tx="leo.20190415022756.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -533,10 +361,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190415022756.2">## week2
+<t tx="leo.20190415022756.2">## week12
 
-這學期採用分組互評方法來驗收每個人每個禮拜在自己的組別是否有做事
-</t>
+ * 討論要如何送球到場地
+ * 畫出雛形草圖</t>
 <t tx="leo.20190415022810.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -546,18 +374,21 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190415022810.2">## 2019協同產品設計實習
+<t tx="leo.20190415022810.2">## week13-week15
 
-### 虎科大機械設計工程系
 
+ * 繪製第二版與第三版的集球門
+ * 繪製擊球台
+ * 初步組合並修改
+ 
+ 
 &lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
-&lt;/small&gt;
+ * [集球門 第三版](https://cad.onshape.com/documents/0894dee7161cb625fbf66c24/w/dd82ba727b43d8551157d048/e/3e3277c2173f854c46e09040)
 
-[2018 Fall 分組網誌](./../blog/index.html)
+ * [集球門 擊球台 作法](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g2/content/%E9%9B%B6%E7%B5%84%E4%BB%B6%E5%B0%BA%E5%AF%B8%E5%88%86%E6%9E%90.html)
 
-
-</t>
+ * [集球門 第二版](https://cad.onshape.com/documents/643878ed5239aaad3ae489e4/w/de4bc1ef97c92a6cb0910ed0/e/95cd6485263e4fc9fc90d71f)
+&lt;small&gt;</t>
 <t tx="leo.20190415022812.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -567,126 +398,13 @@ Created by [40623142 投影片](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20190415022812.2">## 2019協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
+<t tx="leo.20190415022812.2">## week16
 
 
-</t>
-<t tx="leo.20190415022817.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190415022817.2">## 2019協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20190415022819.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190415022819.2">## 2019協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20190415022827.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190415022827.2">## 2019協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20190415022828.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190415022828.2">## 2019協同產品設計實習
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [40623142 投影片](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20190415022831.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190415022831.2">
-
-
-</t>
-<t tx="leo.20190415022833.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190415022833.2">
-
+ * 組合送球機構 細部修改
+ * 簡化後和V-rep的球台組裝
+ 
+&lt;img src="./../images/sung.png" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/img&gt;
 </t>
 </tnodes>
 </leo_file>
